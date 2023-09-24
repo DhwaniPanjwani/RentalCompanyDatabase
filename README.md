@@ -8,4 +8,4 @@ referential integrity constraints to ensure data accuracy and consistency
 and support data-driven decision-making for the organization
 
 Script 1 has the data
-Script 2 has several queries which analyses the data
+Script 2 and 3 have several queries which analyses the data
